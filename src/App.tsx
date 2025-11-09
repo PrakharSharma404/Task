@@ -1,4 +1,4 @@
-import React from 'react'
+
 import TradingInterface from './screens/TradingInterface'
 
 const App = () => {
